@@ -17,7 +17,7 @@ The Path Generator Datapack will automatically convert ground below you every fe
 • Download the datapack<br>
 • Place the zip file inside your datapack folder of your world save<br>
 • Rejoin the world or type /reload<br>
-• Type<
+• Type
  <h2>/function paths:settings/settings1<br>
 To reopen the settings menu at any time</h2>
 <br>
